@@ -3,6 +3,7 @@ Hi there 👋, I'm Supritha B K
 I'm continuously improving my programming skills by working on projects, exploring new technologies, and solving coding challenges.
 🚀 What I'm currently focusing on:
 🐍 Python Programming
+🤖 Machine Learning
 🤖 Artificial Intelligence 
 🌐 Git & GitHub
 💡 Problem Solving and Algorithms
